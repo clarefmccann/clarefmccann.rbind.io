@@ -15,6 +15,9 @@ alt: drawing of two people talking
 ---
 ## current community engagement
 
+### CDA high school boot camp facilitator 
+---> lead a two week boot camp on adolescent research for high school students at UCLA with two other graduate students
+
 ### psychology in action blog writer 
 ---> work with a team of phd students at ucla to increase community engagement in scientific research
 

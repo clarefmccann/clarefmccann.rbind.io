@@ -11,7 +11,7 @@ cascade:
   show_comments: false
 ---
 
-# Clare F. McCann
+# Clare F. McCann, M.A.
 
 The University of California, Los Angeles</br>
 Social Affective Neuroscience and Development lab</br>
@@ -19,15 +19,18 @@ clarefmccann [at] ucla.edu
 
 ---------
 ## **_RESEARCH INTERESTS_**:
-* Exploring potential environmental (e.g., adversity) and biological factors (e.g., pubertal processes) contributing to individual differences in developmental outcomes with translational applications.
-* Disentangling the bio-psycho-social intersection of pubertal processes.
-* Supporting the development of self, purpose, and motivation in underserved youth and young adults.
+*	Explore the role of individual differences in pubertal development in shaping neural trajectories and predicting mental health outcomes 
+*	Understand how different components of puberty (hormones, physical indicators, subjective experiences) differentially predict developmental outcomes 
+*	Highlight the importance of the puberty as a developmental transition primed for intervention and prevention efforts
 
 ## **_EDUCATION_**:
 The University of California, Los Angeles</br>
 September 2022-Present</br>
 Ph.D. Student, Developmental Psychology</br>
 Minor: Quantitative Psychology</br>
+
+Masters Thesis: “And how do you feel about that?”: Early life adversity, Pubertal Appraisals, and Well-being in Young Adults</br>
+**Advisor**: Jennifer Silvers, Ph.D.</br>
 
 University of Oregon, Eugene, Oregon</br>
 September 2016 – June 2020 Major: Psychology</br>
@@ -81,11 +84,11 @@ J. H. (2024) Comparing the Multivariate Relationships of Conceptual Adversity Mo
 
 **Under Review**
 
-*McCann, C.F., Enders, C., Galván, A., & Silvers, J.A. (Under Review) “And how do you feel about that?”: Early life adversity, Pubertal Appraisals, and Well-being in Young Adults.
-
 Rosenberg, B. M., Guassi Moreira, J. F., Méndez Leal, A. S., Saragosa-Harris, N. M., GAINES, E. M., Meredith, W. J., **McCann, C.F.**, ... Silvers, J. A. (2024, November 22). Previous Institutionalization is Associated with Elevated Functional Connectivity between the Nucleus Accumbens and Amygdala during Safety Learning. https://doi.org/10.31234/osf.io/9gbp3
 
 **In Prep**
+
+*McCann, C.F., Enders, C., Galván, A., & Silvers, J.A. (Under Review) “And how do you feel about that?”: Early life adversity, Pubertal Appraisals, and Well-being in Young Adults.
 
 *McCann, C.F., Mills, K., Barendse, M., Pfeifer, J. (In Prep) Puberty and Structural Brain Development: It's About Time.
 
@@ -127,8 +130,12 @@ Teaching Assistant
 **Developmental Psychology** - Fall 2023 & Winter 2024 </br>
 Teaching Assistant
 
-**Developmental Psychology** - Spring 2024 & Fall 2024 </br>
+**Developmental Psychology** - Spring 2024, Fall 2024, Winter 2025, Spring 2025 </br>
 Teaching Associate
+
+**Center for the Developing Adolescent High School Boot Camp** – Summer 2024</br>
+Lecturer
+
 
 ## **_PROFESSIONAL EXPERIENCE_**:
 
@@ -154,6 +161,8 @@ Teaching Associate
 
 National Science Policy Network (NSPN) </br>
 Social Affective Neuroscience Society (SANS)</br>
+International Society for Developmental Psychobiology (IDSP)</br>
+Society for Neuroscience (SfN) </br>
 Society for Research on Adolescence (SRA)</br>
 Flux: The Society for Developmental Cognitive Neuroscience</br>
 Organization for Human Brain Mapping (OHBM)</br>
@@ -166,12 +175,13 @@ Organization for Human Brain Mapping (OHBM)</br>
 
 ## **_CERTIFICATIONS_**:
 
-IBM Data Science Specialization – In Progress</br>
 Scan Operator Certified (40-hour training) – Lewis Center for Neuroimaging</br>
 MRI Safety Certified </br>
 
 ## **_TRAINING_**:
 
+Science Policy Skills 101 - National Science Policy Network </br>
+Science Diplomacy Training - National Science Policy Network</br>
 NeuroHackademy at the University of Washington – 2022</br>
 Skills for Psychological Recovery (SPR) – The National Child Traumatic Stress Network</br>
 LifeWorks Start Suicide Prevention Training</br>

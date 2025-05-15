@@ -6,53 +6,44 @@ excerpt: cue the jeopardy theme song
 layout: single-sidebar
 subtitle: works being worked on actively
 title: In Progress
-date: "2024-06-27"
+date: "2025-05-15"
 ---
 
 ## from Ph.D.
 
+### Pubertal Development and Perceived Discrimination in Adolescence 
+> *Role*. first-author 
+
+> *Co-authors*. yi feng, jennifer a. silvers
+
+> *Status*. </br>
+---> completing first draft of manuscript, fine-tuning models
+
+> *Summary*. exploring the potential bidirectional effects of pubertal development and perceived ethnic-racial discrimination in adolescence 
+
 ### Pubertal Timing and Tempo & Structural Brain Development in Adolescence
 > *Role*. first-author
 
-> *Co-author*. jennifer a. silvers
+> *Co-author*. theresa w. cheng, kathryn l. mills, jennifer a. silvers
 
 > *Status*. </br>
----> accepted into flux annual congress 2024
+---> poster at flux annual congress 2024
+---> preparing for submission 
 
 > *Summary*. examining the role of pubertal timing and tempo in differing developmental trajectories of structural brain development
 
 ### Pubertal Signatures: Unraveling Emotional Neurodevelopment Through Timing
 > *Role*. first-author
 
-> *Co-authors*. bridget callaghan & jennifer a. silvers
+> *Co-authors*. jennifer h. pfeifer & jennifer a. silvers
 
 > *Status*. </br>
 ---> preparing to be submitted
 
-> *Summary*. qualifying exam + DCN special issue submission exploring literature on pubertal processes and affective neurodevelopment in humans
-
-### “And how do you feel about that?”: Early life adversity, Pubertal Appraisals, and Well-being in Young Adults.
-> *Role*. first-author
-
-> *Co-authors*. craig enders, adriana galvan, & jennifer a. silvers
-
-> *Status*. </br>
----> preparing to be submitted
-
-> *Summary*. first year project examining the role of early life adversity, pubertal onset, and appraisals of puberty in young adult emotional well-being.
+> *Summary*. comprehensive exam & systematic review to be prepared for submission 
 
 
-### Positive Emotionality and Regulation. Positive Youth Development: Integrating Research and Practice
-> *Role*. first-author
-
-> *Co-authors*. jennifer a. silvers
-
-> *Status*. </br>
----> under review
-
-> *Summary*. invited chapter for a textbook on supporting positive youth development for the [4-h non-profit](https://4-h.org/?utm_source=google-ads&utm_campaign&utm_agid=87845952896&utm_term=4h&creative=409188558698&device=c&placement&wickedsource=google&wickedid=409188558698&wcid=8707445715&wv=4&gad_source=1&gclid=CjwKCAiAt5euBhB9EiwAdkXWO5iu2mj5pIaoYTIlA2YMHP8D8eVCl-kKu_2nn6vyOnvRHEcRWqHyUhoCRP0QAvD_BwE) chapter in oregon 
-
-### Pubertal Timing and Emotion in the ABCD Study
+### Pubertal Timing and Affective Processing in the ABCD Study
 > *Role*. first-author
 
 > *Co-authors*. jennifer a. silvers 
@@ -60,7 +51,7 @@ date: "2024-06-27"
 > *Status*.</br> 
 ---> waiting for raw data 
 
-> *Summary*. using the [pubertal-age-gap](https://www.medrxiv.org/content/10.1101/2022.05.13.22275069v1) to derive pubertal timing in the [ABCD study](https://abcdstudy.org/) and examine its association with emotional processing in the brain and emotional well-being.
+> *Summary*. using logistic growth curve models to derive pubertal timing and tempo in the [ABCD study](https://abcdstudy.org/) and examine its association with BOLD activation while viewing affective facial expressions.
 
 > [link to OSF](https://osf.io/3hmju/)
 

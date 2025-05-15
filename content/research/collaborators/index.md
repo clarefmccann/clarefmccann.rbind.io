@@ -38,7 +38,7 @@ subtitle:
   <details><summary>Dr. Birdie Shirtcliff - University of Oregon</summary>
 
   > Collaborator
-    ---> assisted in developing the pubertal perception measure (coming soon!)
+    ---> assisted in developing the pubertal appraisal measure (coming soon!)
 
   > Get to know her and her inspiring work with puberty [here](https://psychology.uoregon.edu/news-faculty/dr-elizabeth-birdie-shirtcliff-explains-impact-stress-puberty).
 
@@ -82,6 +82,7 @@ subtitle:
 
   <details><summary>Giana Clarot- Undergraduate at UCLA</summary>
 
+  > mentored her on her psychology undergraduate research week presentation
   > work together on "Pathways in Adolescence"
   > work together on conducting high school focus groups
   </details>
