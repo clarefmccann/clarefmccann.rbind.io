@@ -78,13 +78,21 @@ J. H. (2024) Comparing the Multivariate Relationships of Conceptual Adversity Mo
 
 +Yim, C. & McCann, C.F. (2024) Effects of Social Support on Adolescent Identity Development. *Journal of Emerging Investigators.*
 
+*McCann, C.F. & Silvers, J.A. (2025). *Invited Chapter*: Positive Emotionality and Regulation. Positive Youth Development: Integrating Research and Practice.
+
+**McCann, C.F.**, Cheng, T.W., Mills, K.L. & Silvers, J.A. (2025). Pubertal Timing and Tempo Differentially Influence Cortical and Subcortical Maturation in Adolescence. *Developmental Cognitive Neuroscience.* 
+
+Rosenberg, B.M., Guassi Moreira, J.F., Méndez Leal., A.S., Saragosa-Harris, N.M., Gaines, E., Meredith, W.J., **McCann, C.F.**, Coury, S.M., Waizman, Y., Ninova, E., & Silvers, J.A. (2025). Previous Institutionalization is Associated with Elevated Functional Connectivity between the Nucleus Accumbens and Amygdala during Aversive Learning. *Developmental Cognitive Neuroscience*.
+
 **In Press**
 
-*McCann, C.F. & Silvers, J.A. (Accepted, in press). *Invited Chapter*: Positive Emotionality and Regulation. Positive Youth Development: Integrating Research and Practice.
+**McCann, C.F.** & Silvers, J.A. (In press). *Invited Chapter*: The Role of Control in Fear Development. Handbook of Emotional Development: Advances in Theory, Research, and Practice.
 
 **Under Review**
 
-Rosenberg, B. M., Guassi Moreira, J. F., Méndez Leal, A. S., Saragosa-Harris, N. M., GAINES, E. M., Meredith, W. J., **McCann, C.F.**, ... Silvers, J. A. (2024, November 22). Previous Institutionalization is Associated with Elevated Functional Connectivity between the Nucleus Accumbens and Amygdala during Safety Learning. https://doi.org/10.31234/osf.io/9gbp3
+Albert, R., Davis, B.E.M., Morrow, E., Groves, A.R., Joshi, P., **McCann, C.F.**, Finn, A., Ramotowski, D., Selland, E., Mattson, A., Rich, A., Di Tomassi, I. (Under review). Science Communication and Outreach as a Required Component of Graduate Education. 
+
+Savoca, P.W., **McCann C.F.**, Navarro, E., Somners, J., Silvers, J.A., Callaghan, B.L. (Under review). Parental Emotion Socialization and Pubertal Experiences are associated with Interception, Alexithymia, and Depression.
 
 **In Prep**
 
@@ -101,6 +109,10 @@ Rosenberg, B. M., Guassi Moreira, J. F., Méndez Leal, A. S., Saragosa-Harris, N
 McCann, C.F., +Clarot, G., Silvers, J.A. (2024, April). Adolescent and Young Adult Perspectives on Puberty. Presented in the “Advancement in pubertal markers and measurement” symposium at the Society for Research on Adolescence, Chicago, IL.
 
 **Posters**
+
+McCann, C.F., Feng, Y. Silvers, J.A. (2025, November). Developmental Dynamics of Perceived Ethnic-Racial Discrimination and Pubertal Development: A Preregistration. Poster presented at the International Society for Developmental Psychobiology Conference, San Diego, CA. 
+
+McCann, C.F. & Silvers, J.A. (2025, September). Pubertal Timing & Tempo Predict BOLD Responses to Affective Facial Stimuli in Adolescence. Poster presented at the 13th Annual Flux Society for Development Cognitive Neuroscience Congress, Dublin, Ireland.
 
 McCann, C.F., Cheng, T.W., & Silvers, J.A. (2024, September). Pubertal Timing, Tempo, and Structural Brain Development in the ABCD Study. Posted presented at the 12th Annual Flux Society for Development Cognitive Neuroscience Congress, Baltimore, MD. 
 
@@ -133,11 +145,13 @@ Teaching Assistant
 **Developmental Psychology** - Spring 2024, Fall 2024, Winter 2025, Spring 2025 </br>
 Teaching Associate
 
-**Center for the Developing Adolescent High School Boot Camp** – Summer 2024</br>
-Lecturer
-
-
 ## **_PROFESSIONAL EXPERIENCE_**:
+
+**Graduate Facilitator | Center for the Developing Adolescent High School Boot Camp**</br>
+*Summer 2024, Summer 2025*</br>
+
+**Facilitator | Lively Globe – Research Program for High School Students**
+*June 2024 – September 2024*</br> 
 
 **Mentor | Summa Mentorship Program – Research Program for High School Students**</br>
 *February 2024 – Present*</br> 
@@ -159,6 +173,7 @@ Lecturer
 
 ## **_PROFESSIONAL ORGANIZATION MEMBERSHIPS_**:
 
+Scientist Network for Advancing Policy (SNAP) </br>
 National Science Policy Network (NSPN) </br>
 Social Affective Neuroscience Society (SANS)</br>
 International Society for Developmental Psychobiology (IDSP)</br>
@@ -169,7 +184,7 @@ Organization for Human Brain Mapping (OHBM)</br>
 
 ## **_SKILLS_**:
 
-*Statistical software*: R, MATLAB, JupyterLab, Python, SPSS</br>
+*Statistical software*: R, MATLAB, JupyterLab, Python, SPSS, PROCESS Macro</br>
 *Data applications*: Excel, REDCap, Qualtrics</br>
 *Other*: GitHub, Zotero, Word, PowerPoint, Bash, FreeSurfer</br>
 
@@ -180,6 +195,7 @@ MRI Safety Certified </br>
 
 ## **_TRAINING_**:
 
+Longitudinal Structural Equation Modeling - CenterStat </br>
 Science Policy Skills 101 - National Science Policy Network </br>
 Science Diplomacy Training - National Science Policy Network</br>
 NeuroHackademy at the University of Washington – 2022</br>
@@ -193,6 +209,9 @@ Collaborative Institutional Training Initiative (CITI) – Human Subjects Resear
 
 ## **_PROFESSIONAL SERVICE & COMMUNITY OUTREACH_**:
 
+Science Communication & Policy Writing Committee Co-chair</br>
+**UCLA Science Policy Group, August 2025-Present**</br>
+</br>
 Orientation Committee</br>
 **Department of Psychology, Developmental Area, UCLA, September 2023**</br> 
 </br> 

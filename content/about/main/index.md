@@ -6,7 +6,7 @@ intro: |
   don't be rude!
 show_outro: true
 outro: |
-  third-year Ph.D. student at UCLA
+  Ph.D. candidate at UCLA
 layout: single
 ---
 
