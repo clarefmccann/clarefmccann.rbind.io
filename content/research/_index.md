@@ -1,6 +1,8 @@
 ---
 title: overall research interests
-description: (1) Exploring potential environmental (e.g., adversity) and biological factors (e.g., pubertal processes) contributing to individual differences in developmental outcomes with translational applications. </br></br> (2) Supporting the development of self, purpose, and motivation in underserved youth and young adults.
+description: (1) Explore the role of individual differences in pubertal development in shaping neural trajectories and predicting mental health outcomes, (2) Understand how different components of puberty (hormones, physical indicators, subjective experiences) differentially predict developmental outcomes, and 
+(3) Highlight the importance of the puberty as a developmental transition primed for intervention and prevention efforts
+
 author: me + all my lovely collaborators
 show_post_thumbnail: true
 thumbnail_left: true

@@ -14,14 +14,12 @@ subtitle:
   <details><summary>Dr. Jennifer A. Silvers & <a href="https://silverslab.psych.ucla.edu/">the SAND lab</a> - University of California, Los Angeles</summary>
 
   > Ph.D. advisor at the University of California, Los Angeles</br>
-    ---> expert in emotion regulation and regulates my emotions throughout grad school
 
-  > Read more about her work [here](https://www.psych.ucla.edu/faculty-page/silvers/). Do it; she's amazing.</details>
+  > Read more about her work [here](https://www.psych.ucla.edu/faculty-page/silvers/).</details>
 
   <details><summary> Dr. Kate L. Mills & <a href="http://devbrainlab.org/">the DBIC lab</a> - University of Oregon</summary>
 
   > Undergraduate + Beyond Mentor </br>
-    ---> taught me everything I know about structural neuroimaging
 
   > Click [here](https://psychology.uoregon.edu/profile/klmills/) to learn more about her. If you ever get a chance to work with her, jump at it.
   </details>
@@ -30,7 +28,6 @@ subtitle:
   <details><summary>Dr. Jennifer H. Pfeifer & <a href="https://uodsnlab.com/">the DSN lab</a> - University of Oregon</summary>
 
   > Previous Supervisor & Forever Mentor </br>
-    ---> gave me my "aha" research moment by introducing me to the complexities of pubertal processes
 
   > Read all about her amazing work [here](https://psychology.uoregon.edu/profile/jpfeifer).
   </details>
@@ -38,7 +35,6 @@ subtitle:
   <details><summary>Dr. Birdie Shirtcliff - University of Oregon</summary>
 
   > Collaborator
-    ---> assisted in developing the pubertal appraisal measure (coming soon!)
 
   > Get to know her and her inspiring work with puberty [here](https://psychology.uoregon.edu/news-faculty/dr-elizabeth-birdie-shirtcliff-explains-impact-stress-puberty).
 
@@ -47,7 +43,6 @@ subtitle:
   <details><summary>Dr. Michelle Byrne - Monash University</summary>
 
   > Collaborator</br>
-    ---> advises on my work centering gender inclusivity + puberty research
 
   > Highly recommend checking [her work](https://research.monash.edu/en/persons/michelle-byrne) out.
   </details>
@@ -55,7 +50,6 @@ subtitle:
   <details><summary>Dr. Theresa W. Cheng - Harvard University </summary>
 
   > Undergraduate Research Mentor + Collaborator </br>
-  ---> the reason i love coding and learning new things re: research methods
 
   > You need to look at what she [does](https://www.researchgate.net/profile/Theresa-Cheng-2)
   </details>
@@ -63,7 +57,6 @@ subtitle:
   <details><summary>Dr. Marjolein Barendse - the University of California, Davis</summary>
 
   > Collaborator </br>
-    ---> introduced me to fMRI, and is my go-to for all pubertal hormone questions
 
   > Read more about her wonderful work [here](https://scholar.google.com/citations?user=u20NvGIAAAAJ&hl=en).
   </details>
