@@ -26,6 +26,8 @@ date: "2024-10-15"
 
 > [Code for cleaning and correcting hormone levels in ABCD](https://github.com/marjolein15/Cleaning-ABCD-hormone-data) 
 
+> [R package for calculating standardized menstrual cycle time variable](https://github.com/eisenlohrmoullab/menstrualcycleR)
+
 ## Documents & Guides
 > [Herting saliva decision tree](https://pubmed.ncbi.nlm.nih.gov/33679599/)
 
