@@ -15,31 +15,37 @@ alt: drawing of someone talking with a room of people
 ---
 ## current efforts
 
-## NowIKnowMyABCD
----> co-created and maintain a comprehensive, interactive website focused on increasing communication and collaboration for researchers engaging with the [ABCD dataset](https://abcdstudy.org/)
----> [click here to view the website](https://now-i-know-my-abcd.github.io/docs/intro.html) 
+### NowIKnowMyABCD
+> co-created and maintain a comprehensive, interactive website focused on increasing communication and collaboration for researchers engaging with the [ABCD dataset](https://abcdstudy.org/)
 
-### CDA high school boot camp facilitator 
----> lead a two-week boot camp on adolescent research for high school students at UCLA with two other graduate students
----> [click here to learn more about the Center for the Developing Adolescent at UCLA](https://developingadolescent.semel.ucla.edu/)
+> [click here to view the website](https://now-i-know-my-abcd.github.io/docs/intro.html)
+
+### CDA high school boot camp facilitator
+> lead a two-week boot camp on adolescent research for high school students at UCLA with two other graduate students
+
+> [click here to learn more about the Center for the Developing Adolescent at UCLA](https://developingadolescent.semel.ucla.edu/)
 
 ### high school outreach committee for UGSP at UCLA
----> work with a team of grad students in the psychology department at UCLA to engage high school students in conversations and events about research and potential next steps 
----> [click here to learn more about UGSP at UCLA](https://ugsp.psych.ucla.edu/)
+> work with a team of grad students in the psychology department at UCLA to engage high school students in conversations and events about research and potential next steps
+
+> [click here to learn more about UGSP at UCLA](https://ugsp.psych.ucla.edu/)
 
 ## past efforts
 
 ### 2022-2024
+
 <details><summary>flux society communication committee</summary>
 
-> work with a team made up of other flux members to disseminate current research, outreach events, and special occasions to different social media platforms </br> 
+> work with a team made up of other flux members to disseminate current research, outreach events, and special occasions to different social media platforms
+
 > [click here to learn more about the flux society](https://fluxsociety.org/communications-committee/)
 </details>
 
 ### 2021-2023
+
 <details><summary>to be honest youth advisory board member</summary>
 
-> sat on a board specialized in working with youth to de-stigmatize mental health </br>
+> sat on a board specialized in working with youth to de-stigmatize mental health
 
 > [click here to learn more about tbh](https://linktr.ee/tbhtoday)
 </details>
@@ -48,7 +54,7 @@ alt: drawing of someone talking with a room of people
 
 <details><summary>psychology in action blog writer</summary>
 
-> wrote *”Are You There, god? It’s Me, Margaret”: Let’s talk about puberty!* [click here to view the full blog post](https://www.psychologyinaction.org/are-you-there-god-its-me-margaret-lets-talk-about-puberty/)
+> wrote *"Are You There, god? It's Me, Margaret": Let's talk about puberty!* [click here to view the full blog post](https://www.psychologyinaction.org/are-you-there-god-its-me-margaret-lets-talk-about-puberty/)
 </details>
 
 ### 2022
@@ -59,6 +65,7 @@ alt: drawing of someone talking with a room of people
 </details>
 
 ### 2020-2022
+
 <details><summary>crisis text line counselor</summary>
 
 > provided de-escalation to those in crisis through an online platform
@@ -104,6 +111,7 @@ alt: drawing of someone talking with a room of people
 </details>
 
 ### 2016
+
 <details><summary>intern at momentum for health</summary>
 
 > assisted with an after-school youth program for young adults diagnosed with schizophrenia
@@ -121,15 +129,15 @@ alt: drawing of someone talking with a room of people
 
 <details><summary>living lab day</summary>
 
- > taught children from the community how to make anatomically correct brain hats and pipe cleaner neurons while answering their questions about the structures</br>
- </details>
+> taught children from the community how to make anatomically correct brain hats and pipe cleaner neurons while answering their questions about the structures
+</details>
 
 <details><summary>summer academy to inspire learning</summary>
 
- > presented the general topic of mindfulness for a summer camp dedicated to inspiring high school students in Oregon to engage with a variety of scientific fields
- </details>
+> presented the general topic of mindfulness for a summer camp dedicated to inspiring high school students in Oregon to engage with a variety of scientific fields
+</details>
 
- <details><summary>get explicit 101</summary>
+<details><summary>get explicit 101</summary>
 
- > designed and implemented a presentation to give to incoming students at the University of Oregon. The presentation aimed to replace a prevention play surrounding the topic of sexual violence prevention and healthy relationships.
- </details>
+> designed and implemented a presentation to give to incoming students at the University of Oregon. The presentation aimed to replace a prevention play surrounding the topic of sexual violence prevention and healthy relationships.
+</details>
