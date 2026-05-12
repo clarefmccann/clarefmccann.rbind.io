@@ -8,11 +8,11 @@ layout: single-sidebar
 show_post_time: false
 subtitle:
 title: studying puberty
-date: "2024-10-15"
+date: today
 ---
 
 ## Code
-> [PDS → Tanner Stage](https://github.com/clarefmccann/PDS_to_TS/blob/main/PDS_to_TS_abcd.Rmd)
+> [PDS → Tanner-like Staging in ABCD; Shirtcliff et al., 2009](https://github.com/clarefmccann/PDS_to_TS/blob/main/PDS_to_TS_abcd.Rmd)
 
 > [Puberty Composite Score for studies collecting line drawings and PDS](https://github.com/dsnlab/TAG_scripts/blob/master/behavioral/pubertyQs/PubertyComposite_allwaves.R) 
 
@@ -29,10 +29,12 @@ date: "2024-10-15"
 > [R package for calculating standardized menstrual cycle time variable](https://github.com/eisenlohrmoullab/menstrualcycleR)
 
 ## Documents & Guides
-> [Herting saliva decision tree](https://pubmed.ncbi.nlm.nih.gov/33679599/)
+> [Herting saliva processing decision tree](https://pubmed.ncbi.nlm.nih.gov/33679599/)
 
-> [Cheng et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34025573/)
+> [Cheng et al., 2021 - studying puberty in the ABCD study at baseline](https://pubmed.ncbi.nlm.nih.gov/34025573/)
 
 > [Puberty-age-gap (Dehestani et al., 2023)](https://www.sciencedirect.com/science/article/pii/S1878929323000324?via%3Dihub)
 
 > [The Hitchhiker’s guide to longitudinal models: A primer on model selection for repeated-measures methods](https://www.sciencedirect.com/science/article/pii/S1878929323000865)
+
+> [Understanding Puberty and Its Measurement: Ideas for Research in a New Generation](https://pubmed.ncbi.nlm.nih.gov/30869839/)

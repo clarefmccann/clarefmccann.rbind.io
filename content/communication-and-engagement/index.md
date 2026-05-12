@@ -30,6 +30,11 @@ alt: drawing of someone talking with a room of people
 
 > [click here to learn more about UGSP at UCLA](https://ugsp.psych.ucla.edu/)
 
+### science communication & policy writing committee co-chair | UCLA science policy group
+> collaborates with larger officer team to plan, promote, and implement efforts to educate others on the bridge between science and policy.
+
+> [click here to learn more about the UCLA Science Policy Group](https://www.scipolucla.com/)
+
 ## past efforts
 
 ### 2022-2024
