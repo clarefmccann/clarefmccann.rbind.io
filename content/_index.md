@@ -2,7 +2,7 @@
 action_label: Learn more about me if you want &rarr;
 action_link: /about
 action_type: text
-description: hello! this is my website where i keep track of my research, outreach, collaborations, and anything else i end up adding. </br></br>(photo on this page is my brain)
+description: hello! this is my website. </br></br>(photo on this page is my brain)
 image_left: true
 images:
 - img/dti-brain.png

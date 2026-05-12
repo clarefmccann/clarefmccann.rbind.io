@@ -1,61 +1,65 @@
 ---
 author:
 categories:
-date: "2023-08-01"
+date: today
 draft: false
-excerpt: some fun things i've done to engage the community in science and science with the community
+excerpt: past & current efforts to engage in science communication 
 featured: true
 layout: single-sidebar
 show_post_time: false
-title: community engagement
+title: communication & engagement
 cascade:
   featured_image: /featured-engage.jpg
-alt: drawing of two people talking
+alt: drawing of someone talking with a room of people
 
 ---
-## current community engagement
+## current efforts
+
+## NowIKnowMyABCD
+---> co-created and maintain a comprehensive, interactive website focused on increasing communication and collaboration for researchers engaging with the [ABCD dataset](https://abcdstudy.org/)
+---> [click here to view the website](https://now-i-know-my-abcd.github.io/docs/intro.html) 
 
 ### CDA high school boot camp facilitator 
----> lead a two week boot camp on adolescent research for high school students at UCLA with two other graduate students
-
-### psychology in action blog writer 
----> work with a team of phd students at ucla to increase community engagement in scientific research
+---> lead a two-week boot camp on adolescent research for high school students at UCLA with two other graduate students
+---> [click here to learn more about the Center for the Developing Adolescent at UCLA](https://developingadolescent.semel.ucla.edu/)
 
 ### high school outreach committee for UGSP at UCLA
----> work with a team of grad students in the psychology department at ucla to engage high school students in conversations and events about research and potential next steps 
+---> work with a team of grad students in the psychology department at UCLA to engage high school students in conversations and events about research and potential next steps 
+---> [click here to learn more about UGSP at UCLA](https://ugsp.psych.ucla.edu/)
 
-### flux society communication committee
----> work with a team made up of other flux members to disseminate current research, outreach events, and special occasions to different social media platforms </br> ---> [click here to learn more about the flux society](https://fluxsociety.org/communications-committee/)
+## past efforts
 
-### be my eyes sighted volunteer
----> assist those with impaired vision when requested through the Be My Eyes application </br>
----> [click here to learn more about be my eyes](https://www.bemyeyes.com/about)
+### 2022-2024
+<details><summary>flux society communication committee</summary>
 
-## past community engagement
-
-### 2024
-
-<details><summary>facilitator of high school summer boot camp</a></summary>
-
-> working with 2 other graduate students to put on a summer boot camp on adolescent brain development at UCLA through the center for the developing adolescent
+> work with a team made up of other flux members to disseminate current research, outreach events, and special occasions to different social media platforms </br> 
+> [click here to learn more about the flux society](https://fluxsociety.org/communications-committee/)
 </details>
 
 ### 2021-2023
-<details><summary>to be honest youth advisory board member</a></summary>
+<details><summary>to be honest youth advisory board member</summary>
 
 > sat on a board specialized in working with youth to de-stigmatize mental health </br>
 
 > [click here to learn more about tbh](https://linktr.ee/tbhtoday)
 </details>
 
+### 2023
+
+<details><summary>psychology in action blog writer</summary>
+
+> wrote *”Are You There, god? It’s Me, Margaret”: Let’s talk about puberty!* [click here to view the full blog post](https://www.psychologyinaction.org/are-you-there-god-its-me-margaret-lets-talk-about-puberty/)
+</details>
+
 ### 2022
-<details><summary>organization committee for brainhack global</a></summary>
+
+<details><summary>organization committee for brainhack global</summary>
 
 > helped manage the communication between all [brainhack events](https://brainhack.org/global2022/)
 </details>
 
 ### 2020-2022
-<details><summary>crisis text line counselor</a></summary>
+<details><summary>crisis text line counselor</summary>
 
 > provided de-escalation to those in crisis through an online platform
 

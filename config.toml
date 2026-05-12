@@ -37,7 +37,7 @@ pygmentsUseClasses = true
   description = "Welcome!"
   favicon = "/img/favicon.ico"
   logo = "/img/gecko-logo.png"
-  mainSections = ["CV", "research", "outreach", "resources i like"]
+  mainSections = ["cv", "communication-and-engagement", "studying-puberty"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -124,20 +124,15 @@ pygmentsUseClasses = true
     url = "/cv/"
     weight = 2
   [[menu.header]]
-    name = "research"
-    title = "my research"
-    url = "/research/"
+    name = "communication & engagement"
+    title = "communication & engagement"
+    url = "/communication-and-engagement/"
     weight = 3
   [[menu.header]]
-    name = "outreach"
-    title = "outreach + volunteer work"
-    url = "/outreach/"
+    name = "studying puberty"
+    title = "studying puberty"
+    url = "/studying-puberty/"
     weight = 4
-  [[menu.header]]
-    name = "resources i like"
-    title = "resources i like + misc tips"
-    url = "/resources-i-like/"
-    weight = 5
   [[menu.footer]]
     name = "contact"
     title = "contact form"
