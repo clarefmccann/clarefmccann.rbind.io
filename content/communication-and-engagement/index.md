@@ -30,6 +30,7 @@ alt: drawing of someone talking with a room of people
 ### 2025-2026
 
 <details><summary>science communication & policy writing committee co-chair | UCLA science policy group</summary>
+
 > collaborates with larger officer team to plan, promote, and implement efforts to educate others on the bridge between science and policy.
 
 > [click here to learn more about the UCLA Science Policy Group](https://www.scipolucla.com/)
