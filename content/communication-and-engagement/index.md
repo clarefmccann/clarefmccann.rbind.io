@@ -20,22 +20,29 @@ alt: drawing of someone talking with a room of people
 
 > [click here to view the website](https://now-i-know-my-abcd.github.io/docs/intro.html)
 
-### CDA high school boot camp facilitator
-> lead a two-week boot camp on adolescent research for high school students at UCLA with two other graduate students
-
-> [click here to learn more about the Center for the Developing Adolescent at UCLA](https://developingadolescent.semel.ucla.edu/)
-
 ### high school outreach committee for UGSP at UCLA
 > work with a team of grad students in the psychology department at UCLA to engage high school students in conversations and events about research and potential next steps
 
 > [click here to learn more about UGSP at UCLA](https://ugsp.psych.ucla.edu/)
 
-### science communication & policy writing committee co-chair | UCLA science policy group
+## past efforts
+
+### 2025-2026
+
+<details><summary>science communication & policy writing committee co-chair | UCLA science policy group</summary>
 > collaborates with larger officer team to plan, promote, and implement efforts to educate others on the bridge between science and policy.
 
 > [click here to learn more about the UCLA Science Policy Group](https://www.scipolucla.com/)
+</details>
 
-## past efforts
+### 2024-2026
+
+<details><summary>CDA high school boot camp facilitator</summary>
+
+> lead a two-week boot camp on adolescent research for high school students at UCLA with two other graduate students
+
+> [click here to learn more about the Center for the Developing Adolescent at UCLA](https://developingadolescent.semel.ucla.edu/)
+</details>
 
 ### 2022-2024
 

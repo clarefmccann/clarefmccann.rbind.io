@@ -26,7 +26,7 @@ clarefmccann [at] ucla.edu
 ## **_EDUCATION_**:
 The University of California, Los Angeles</br>
 September 2022-Present</br>
-Ph.D. Student, Developmental Psychology</br>
+Ph.D. Candidate, Developmental Psychology</br>
 Minor: Quantitative Psychology | GPA: 3.97</br>
 
 Master's Thesis: "And how do you feel about that?": Early life adversity, Pubertal Appraisals, and Well-being in Young Adults</br>
@@ -42,6 +42,7 @@ Honor's Thesis: Examining self-perceived scholastic competence, mindfulness, and
 
 ## **_AWARDS & HONORS_**:
 
+* University of California, Los Angeles: Dissertation Year Award 2026-2027
 * University of California, Los Angeles: GradSlam Semi-finalist
 * National Institute of Child and Health Development T32 Fellowship – Brain and Behavioral Development during Adolescence 2024
 * University of California, Los Angeles: Psychology Summer Research Award 2023
@@ -82,29 +83,29 @@ Barrett, A. -M. Y., Cheng T. W., Flannery, J., **McCann, C.F.**, Mills, K. L., C
 
 \*Ali, S., \*McCann, C.F., \*Whitmore, L., \*Thieu, M., Laird, A. (2024). Now I Know My ABCD! A Global Resource for Researchers Using the ABCD Study. *Developmental Cognitive Neuroscience.*
 
-\+Yim, C. & McCann, C.F. (2024) Effects of Social Support on Adolescent Identity Development. *Journal of Emerging Investigators.*
+\+Yim, C. & **McCann, C.F.** (2024) Effects of Social Support on Adolescent Identity Development. *Journal of Emerging Investigators.*
 
 McCann, C.F. & Silvers, J.A. (2025). Positive Emotionality and Regulation. *Positive Youth Development: Integrating Research and Practice.*
 
 Rosenberg, B.M., Guassi Moreira, J.F., Méndez Leal., A.S., Saragosa-Harris, N.M., Gaines, E., Meredith, W.J., **McCann, C.F.**, Coury, S.M., Waizman, Y., Ninova, E., & Silvers, J.A. (in press). Previous Institutionalization is Associated with Elevated Functional Connectivity between the Nucleus Accumbens and Amygdala during Aversive Learning. *Developmental Cognitive Neuroscience.*
 
-**McCann, C.F.**, Cheng, T.W., Mills, K.L. & Silvers, J.A. (2025). Pubertal Timing and Tempo Differentially Influence Cortical and Subcortical Maturation in Adolescence. *Developmental Cognitive Neuroscience.*
+**McCann, C.F.**, Cheng, T.W., Mills, K.L. & Silvers, J.A. (2026). Pubertal Timing and Tempo Differentially Influence Cortical and Subcortical Maturation in Adolescence. *Developmental Cognitive Neuroscience.*
 
 **Accepted, In Press**
 
 **McCann, C.F.** & Silvers, J.A. (In press). The Role of Control in Fear Development. *Handbook of Emotional Development: Advances in Theory, Research, and Practice.*
 
+Albert, R., Davis, B.E.M., Morrow, E., Groves, A.R., Joshi, P., **McCann, C.F.**, Finn, A., Ramotowski, D., Selland, E., Mattson, A., Rich, A., Di Tomassi, I. (In press). Science Communication and Outreach as a Required Component of Graduate Education.
+
 **Under Review**
 
-Albert, R., Davis, B.E.M., Morrow, E., Groves, A.R., Joshi, P., **McCann, C.F.**, Finn, A., Ramotowski, D., Selland, E., Mattson, A., Rich, A., Di Tomassi, I. (Under review). Science Communication and Outreach as a Required Component of Graduate Education.
-
-**McCann, C.F.**, Barendse, M., Bottenhorn, K., Byrne, M., Cheng, T.W.C., Guazzelli Williamson, V., Herting, M., Ladouceur, C., MacSweeney, N., Magis-Weinberg, L., McCormick, E., Patterson, M., Shirtcliff, E., Silvers, J.A., Whittle, S., Cheng, T.W.C., & Pfeifer, J.H. (Under review). Considerations for developmental scientists working with puberty data longitudinally.
+**McCann, C.F.**, Barendse, M., Bottenhorn, K., Byrne, M., Cheng, T.W.C., Guazzelli Williamson, V., Herting, M., Ladouceur, C., MacSweeney, N., Magis-Weinberg, L., McCormick, E., Patterson, M., Shirtcliff, E., Silvers, J.A., Whittle, S., Cheng, T.W.C., & Pfeifer, J.H. (Under review). Expert consensus: Considerations for developmental scientists working with puberty data longitudinally.
 
 **In Prep**
 
 **McCann, C.F.** & Silvers, J.A. (In Prep). A Systematic Review: Pubertal Timing and Tempo's Influence on Socioemotional Neural Development Across Adolescence.
 
-\*McCann, C.F., \*Coury, S., Chavez, S.J., Allen, N.A., Armstrong-Kelly, C., Cheng, T.W., Govender, T., Pfeifer, J.H., Byrne, M.L. (In Prep). Biological Reactivity to a Novel Social Evaluative Stressor Task in Adolescent Girls.
+**McCann, C.F.**, Coury, S., Chavez, S.J., Allen, N.A., Armstrong-Kelly, C., Cheng, T.W., Govender, T., Pfeifer, J.H., Byrne, M.L. (In Prep). Biological Reactivity to a Novel Social Evaluative Stressor Task in Adolescent Girls.
 
 **McCann, C.F.**, Barendse, M., Mills, K.L., Pfeifer, J.H. (In Prep). Puberty and Structural Brain Development: It's About Time.
 
@@ -120,7 +121,7 @@ McCann, C.F., Feng, Y. Silvers, J.A. (2025, November). Developmental Dynamics of
 
 McCann, C.F. & Silvers, J.A. (2025, September). Pubertal Timing & Tempo Predict BOLD Responses to Affective Facial Stimuli in Adolescence. Poster presented at the 13th Annual Flux Society for Development Cognitive Neuroscience Congress, Dublin, Ireland.
 
-Goldberg, M.N., Reck, A.J., McCann, C.F., Machle, C.J., Shirtcliff, E.A., Murty, V.P., Pfeifer, J.H. (2025, September). Hormonal Influences on Social Development and Brain Maturation Across Adolescence. Poster presented at the 13th Annual Flux Society for Development Cognitive Neuroscience Congress, Dublin, Ireland.
+Goldberg, M.N., Reck, A.J., **McCann, C.F.**, Machle, C.J., Shirtcliff, E.A., Murty, V.P., Pfeifer, J.H. (2025, September). Hormonal Influences on Social Development and Brain Maturation Across Adolescence. Poster presented at the 13th Annual Flux Society for Development Cognitive Neuroscience Congress, Dublin, Ireland.
 
 McCann, C.F., Cheng, T.W., & Silvers, J.A. (2024, September). Pubertal Timing, Tempo, and Structural Brain Development in the ABCD Study. Poster presented at the 12th Annual Flux Society for Development Cognitive Neuroscience Congress, Baltimore, MD.
 
@@ -157,13 +158,13 @@ Teaching Associate
 ## **_PROFESSIONAL EXPERIENCE_**:
 
 **Graduate Facilitator | Center for the Developing Adolescent High School Boot Camp**</br>
-*Summer 2024, Summer 2025*</br>
+*Summer 2024, Summer 2025, Summer 2026*</br>
 
 **Facilitator | Lively Globe – Research Program for High School Students**</br>
-*June 2024 – Present*</br>
+*June 2024 – September 2024*</br>
 
 **Mentor | Summa Mentorship Program – Research Program for High School Students**</br>
-*February 2024 – Present*</br>
+*February 2024 – September 2024*</br>
 
 **Mentor | Polygence – Research Program for College-focused High School Students**</br>
 *May 2023 – Present*</br>
@@ -193,7 +194,7 @@ Organization for Human Brain Mapping (OHBM)</br>
 
 ## **_SKILLS_**:
 
-*Statistical software*: R, MATLAB, JupyterLab, Python, SPSS, PROCESS Macro</br>
+*Statistical software*: R, MATLAB, JupyterLab, Python, SPSS, PROCESS Macro, JAGS, BLIMP</br>
 *Data applications*: Excel, REDCap, Qualtrics</br>
 *Other*: GitHub, Zotero, Word, PowerPoint, Bash, FreeSurfer, fmriprep</br>
 
@@ -204,8 +205,9 @@ MRI Safety Certified </br>
 
 ## **_TRAINING_**:
 
-Longitudinal Structural Equation Modeling</br>
-CenterStat, Asynchronous 2025</br>
+Bayesian Longitudinal Data Analysis Workshop - International Society for Data Science and Analytics (UCLA & University of Virginia) 2026</br>
+ABCD ReproNim Hackathon - The Adolescent Brain Cognitive Development Consortium & ReproNim 2026</br>
+Longitudinal Structural Equation Modeling - CenterStat, Asynchronous 2025</br>
 Science Policy Skills 101 – National Science Policy Network </br>
 Science Diplomacy Training – National Science Policy Network</br>
 NeuroHackademy – University of Washington, 2022</br>
@@ -218,17 +220,17 @@ Collaborative Institutional Training Initiative (CITI) – Human Subjects Resear
 
 ## **_PROFESSIONAL SERVICE & COMMUNITY OUTREACH_**:
 
+High School Outreach Committee</br>
+**Underrepresented Graduate Students in Psychology, 2022-Present**</br>
+</br>
 Science Communication & Policy Writing Committee Co-chair</br>
-**UCLA Science Policy Group, August 2025-Present**</br>
+**UCLA Science Policy Group, August 2025-September 2026**</br>
 </br>
 Orientation Committee</br>
 **Department of Psychology, Developmental Area, UCLA, September 2023**</br>
 </br>
 Blog Writer</br>
-**Psychology in Action, June 2023-Present**</br>
-</br>
-High School Outreach Committee</br>
-**Underrepresented Graduate Students in Psychology, 2022-2024**</br>
+**Psychology in Action, June 2023**</br>
 </br>
 Youth Advisory Board Member</br>
 **To Be Honest, 2021-2023**</br>
@@ -237,7 +239,7 @@ Brainhack Global 2022 Organizing Committee</br>
 **July 2022-December 2022**</br>
 </br>
 Communications Committee Member</br>
-**Flux Society, 2022-Present**</br>
+**Flux Society, 2022-2024**</br>
 </br>
 Sighted Volunteer </br>
 **Be My Eyes, 2020-Present**</br>
