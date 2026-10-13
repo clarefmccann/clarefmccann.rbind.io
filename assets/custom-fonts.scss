@@ -75,6 +75,15 @@
        url('#{$font-path}/Commissioner-LightItalic.woff2') format('woff2');
 }
 
+/* commissioner-600 - latin (real bold so <strong> isn't faux-bolded from Light) */
+@font-face {
+  font-family: 'Commissioner';
+  font-style: normal;
+  font-weight: 600;
+  src: local(''),
+       url('#{$font-path}/Commissioner-SemiBold.woff2') format('woff2');
+}
+
 /* eb-garamond-regular - latin */
 @font-face {
   font-family: 'EB Garamond';

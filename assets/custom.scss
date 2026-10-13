@@ -76,3 +76,8 @@ nav#TableOfContents ul li {
     }
   }
 }
+
+// bold text: use the real Commissioner semibold weight
+strong, b {
+  font-weight: 600;
+}
