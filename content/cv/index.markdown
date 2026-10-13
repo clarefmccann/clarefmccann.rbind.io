@@ -55,6 +55,11 @@ Honor's Thesis: Examining self-perceived scholastic competence, mindfulness, and
 
 ## **_RESEARCH EXPERIENCE_**:
 
+
+**Summer Research Fellow | Youth Mental Health Tracker Team | Surgo Health**</br>
+*May 2026 – Present*</br>
+**Supervisors**: Christina Mehranbod, Ph.D. & Adele Wang, Ph.D.
+
 **Graduate Student Researcher | Social Affective Neuroscience Development Lab | University of California, Los Angeles**</br>
 *September 2022 – Present*</br>
 **Supervisor**: Jennifer A. Silvers, Ph.D.
@@ -91,6 +96,8 @@ Rosenberg, B.M., Guassi Moreira, J.F., Méndez Leal., A.S., Saragosa-Harris, N.M
 
 **McCann, C.F.**, Cheng, T.W., Mills, K.L. & Silvers, J.A. (2026). Pubertal Timing and Tempo Differentially Influence Cortical and Subcortical Maturation in Adolescence. *Developmental Cognitive Neuroscience.*
 
+**McCann, C.F.**, Barendse, M., Bottenhorn, K., Byrne, M., Cheng, T.W.C., Guazzelli Williamson, V., Herting, M., Ladouceur, C., MacSweeney, N., Magis-Weinberg, L., McCormick, E., Patterson, M., Shirtcliff, E., Silvers, J.A., Whittle, S., Cheng, T.W.C., & Pfeifer, J.H. (2026). Expert consensus: Considerations for developmental scientists working with puberty data longitudinally. *Frontiers in Neuroendocrinology.*
+
 **Accepted, In Press**
 
 **McCann, C.F.** & Silvers, J.A. (In press). The Role of Control in Fear Development. *Handbook of Emotional Development: Advances in Theory, Research, and Practice.*
@@ -99,7 +106,7 @@ Albert, R., Davis, B.E.M., Morrow, E., Groves, A.R., Joshi, P., **McCann, C.F.**
 
 **Under Review**
 
-**McCann, C.F.**, Barendse, M., Bottenhorn, K., Byrne, M., Cheng, T.W.C., Guazzelli Williamson, V., Herting, M., Ladouceur, C., MacSweeney, N., Magis-Weinberg, L., McCormick, E., Patterson, M., Shirtcliff, E., Silvers, J.A., Whittle, S., Cheng, T.W.C., & Pfeifer, J.H. (Under review). Expert consensus: Considerations for developmental scientists working with puberty data longitudinally.
+**McCann, C.F.**, Sahi, R.S., Gaines, E.M., Razon, A., Meredith, W.J., Méndez Leal, A., Saragosa Harris, N., Chi Juin Su, A., Lieberman, M.D., Eisenberger, N.I., Silvers, J.A. (Under review). Social Reappraisal as a Peer-Leveraged Emotion Regulation Strategy in Adolescence: An fMRI Study Protocol. 
 
 **In Prep**
 
@@ -116,6 +123,10 @@ Albert, R., Davis, B.E.M., Morrow, E., Groves, A.R., Joshi, P., **McCann, C.F.**
 McCann, C.F., +Clarot, G., Silvers, J.A. (2024, April). Adolescent and Young Adult Perspectives on Puberty. Presented in the "Advancement in pubertal markers and measurement" symposium at the Society for Research on Adolescence, Chicago, IL.
 
 **Posters**
+
+McCann, C.F., Feng, Y., Herting, M.M., Silvers, J.A. (2026, September). A Longitudinal Moderated Nonlinear Factor Analysis Approach to Modeling Puberty-Brain Relationships. Poster presented at the 14th Annual Flux Society for Developmental Cognitive Neuroscience, La Jolla, CA. 
+
+Clarot, G., McCann, C.F., Vaidya, C.V., Silvers, J.A. (2026, September). Everyday Executive Functioning Deficits in Siblings of Autistic Children: Evidence Beyond Autism Trait Load and Family-Level Factors. Poster presented at the 14th Annual Flux Society for Developmental Cognitive Neuroscience Congress, La Jolla, CA.
 
 McCann, C.F., Feng, Y. Silvers, J.A. (2025, November). Developmental Dynamics of Perceived Ethnic-Racial Discrimination and Pubertal Development: A Preregistration. Poster presented at the International Society for Developmental Psychobiology Conference, San Diego, CA.
 
@@ -144,6 +155,7 @@ McCann, C.F. (2023, June) "Are You There, god? It's Me, Margaret": Let's talk ab
 ## **_ADHOC REVIEWER_**:
 
 Journal of Adolescent Health
+Biological Psychiatry
 
 ## **_TEACHING_**:
 **Introduction to Psychology** – Winter 2023 </br>
@@ -196,7 +208,7 @@ Organization for Human Brain Mapping (OHBM)</br>
 
 *Statistical software*: R, MATLAB, JupyterLab, Python, SPSS, PROCESS Macro, JAGS, BLIMP</br>
 *Data applications*: Excel, REDCap, Qualtrics</br>
-*Other*: GitHub, Zotero, Word, PowerPoint, Bash, FreeSurfer, fmriprep</br>
+*Other*: GitHub, Zotero, Word, PowerPoint, Bash, FreeSurfer, fmriprep, psychopy</br>
 
 ## **_CERTIFICATIONS_**:
 
