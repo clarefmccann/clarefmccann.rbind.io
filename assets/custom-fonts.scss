@@ -4,7 +4,7 @@
   font-style: normal;
   font-weight: 400;
   src: local(''),
-       url('#{$font-path}/Fraunces9ptSoft-Thin.woff2') format('woff2');
+       url('#{$font-path}/Fraunces9ptSoft-Regular.woff2') format('woff2');
 }
 
 /* fraunces-italic - latin */
@@ -13,7 +13,7 @@
   font-style: italic;
   font-weight: 400;
   src: local(''),
-       url('#{$font-path}/Fraunces9ptSoft-ThinItalic.woff2')  format('woff2');
+       url('#{$font-path}/Fraunces9ptSoft-RegularItalic.woff2')  format('woff2');
 }
 
 /* Metropolis-regular - latin */
@@ -63,7 +63,7 @@
   font-style: normal;
   font-weight: 400;
   src: local(''),
-       url('#{$font-path}/Commissioner-Light.woff2') format('woff2');
+       url('#{$font-path}/Commissioner-Regular.woff2') format('woff2');
 }
 
 /* commissioner-italic - latin */
@@ -72,7 +72,7 @@
   font-style: italic;
   font-weight: 400;
   src: local(''),
-       url('#{$font-path}/Commissioner-LightItalic.woff2') format('woff2');
+       url('#{$font-path}/Commissioner-RegularSlanted.woff2') format('woff2');
 }
 
 /* commissioner-600 - latin (real bold so <strong> isn't faux-bolded from Light) */

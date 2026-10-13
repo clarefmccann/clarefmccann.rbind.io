@@ -1,7 +1,7 @@
 baseURL = "https://clarefmccann.rbind.io"
 theme = "hugo-apero"
 languageCode = "en"
-title = "hey"
+title = "Clare F. McCann"
 author = "Clare F. McCann"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -45,9 +45,7 @@ pygmentsUseClasses = true
   socialInFooter = true
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
-  # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "clarefmccann"
+  sharing_image = "/img/dti-brain.png"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -90,21 +88,19 @@ pygmentsUseClasses = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/clarefmccann"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/clarefmccann"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
+      name      = "Google Scholar"
+      icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://orcid.org/0000-0002-8548-3536"
+      url       = "https://scholar.google.com/citations?user=7-dElWMAAAAJ&hl=en"
   [[params.social]]
-      icon      = "spotify" # icon name without the 'fa-'
+      name      = "LinkedIn"
+      icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://open.spotify.com/episode/7uOcImpiHoC1El7sHmSjpy?si=b6ca86f425c544c6"
+      url       = "https://www.linkedin.com/in/clare-mccann-9a5172192/"
+  [[params.social]]
+      name      = "Bluesky"
+      icon      = "bluesky" # custom inline SVG, see layouts/partials/shared/social-links.html
+      url       = "https://bsky.app/profile/clarefmccann.bsky.social"
 
 [taxonomies]
   category = "categories"
