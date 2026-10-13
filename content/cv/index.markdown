@@ -154,7 +154,7 @@ McCann, C.F. (2023, June) "Are You There, god? It's Me, Margaret": Let's talk ab
 
 ## **_ADHOC REVIEWER_**:
 
-Journal of Adolescent Health
+Journal of Adolescent Health </br>
 Biological Psychiatry
 
 ## **_TEACHING_**:
