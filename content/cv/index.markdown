@@ -99,11 +99,11 @@ Rosenberg, B.M., Guassi Moreira, J.F., Méndez Leal, A.S., Saragosa-Harris, N.M.
 
 **McCann, C.F.**, Barendse, M., Bottenhorn, K., Byrne, M., Cheng, T.W., Guazzelli Williamson, V., Herting, M., Ladouceur, C., MacSweeney, N., Magis-Weinberg, L., McCormick, E., Patterson, M., Shirtcliff, E., Silvers, J.A., Whittle, S., & Pfeifer, J.H. (2026). Expert consensus: Considerations for developmental scientists working with puberty data longitudinally. *Frontiers in Neuroendocrinology.*
 
+Albert, R., Davis, B.E.M., Morrow, E., Groves, A.R., Joshi, P., **McCann, C.F.**, Finn, A., Ramotowski, D., Selland, E., Mattson, A., Rich, A., Di Tomassi, I. (2026). Science Communication and Outreach as a Required Component of Graduate Education. *The Annals of the American Academy of Political and Social Science.* 
+
 **Accepted, In Press**
 
 **McCann, C.F.**, & Silvers, J.A. (In press). The Role of Control in Fear Development. *Handbook of Emotional Development: Advances in Theory, Research, and Practice.*
-
-Albert, R., Davis, B.E.M., Morrow, E., Groves, A.R., Joshi, P., **McCann, C.F.**, Finn, A., Ramotowski, D., Selland, E., Mattson, A., Rich, A., & Di Tomassi, I. (In press). Science Communication and Outreach as a Required Component of Graduate Education.
 
 **Under Review**
 
